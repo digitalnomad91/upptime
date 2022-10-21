@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 677,
-    "timeDay": 677,
-    "timeWeek": 677,
-    "timeMonth": 677,
-    "timeYear": 677,
+    "time": 838,
+    "timeDay": 838,
+    "timeWeek": 838,
+    "timeMonth": 838,
+    "timeYear": 838,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 614,
-    "timeDay": 614,
-    "timeWeek": 614,
-    "timeMonth": 614,
-    "timeYear": 614,
+    "time": 730,
+    "timeDay": 730,
+    "timeWeek": 730,
+    "timeMonth": 730,
+    "timeYear": 730,
     "dailyMinutesDown": {}
   },
   {
@@ -41,16 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/corbin.world.ico",
     "slug": "corbin-world",
     "status": "up",
-    "uptime": "0.92%",
-    "uptimeDay": "0.92%",
-    "uptimeWeek": "0.92%",
-    "uptimeMonth": "0.92%",
-    "uptimeYear": "0.92%",
-    "time": 549,
-    "timeDay": 549,
-    "timeWeek": 549,
-    "timeMonth": 549,
-    "timeYear": 549,
+    "uptime": "26.86%",
+    "uptimeDay": "26.86%",
+    "uptimeWeek": "26.86%",
+    "uptimeMonth": "26.86%",
+    "uptimeYear": "26.86%",
+    "time": 666,
+    "timeDay": 666,
+    "timeWeek": 666,
+    "timeMonth": 666,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2022-10-21": 10
     }
@@ -61,18 +61,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kybaproject.com.ico",
     "slug": "keep-your-boat-afloat",
     "status": "down",
-    "uptime": "0.17%",
-    "uptimeDay": "0.17%",
-    "uptimeWeek": "0.17%",
-    "uptimeMonth": "0.17%",
-    "uptimeYear": "0.17%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-21": 10
+      "2022-10-21": 14
     }
   }
 ]
