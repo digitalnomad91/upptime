@@ -1,7 +1,7 @@
 url: https://emby.subtlefuge.com
-status: down
-code: 502
-responseTime: 3444
-lastUpdated: 2024-01-30T23:01:15.033Z
+status: up
+code: 200
+responseTime: 472
+lastUpdated: 2024-01-31T05:22:20.452Z
 startTime: 2023-08-04T22:40:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
